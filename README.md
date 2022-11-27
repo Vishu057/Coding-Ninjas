@@ -1,2 +1,2 @@
 # Coding-Ninjas
-We are doing some uniqu
+We are doing some unique
